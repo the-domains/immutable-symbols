@@ -1,0 +1,14 @@
+layout_spectrum: 0.9796294567640871
+typography_spectrum: 0.6316600902937353
+color:
+  brandStrength: 0.9700757297687232
+  lightness: 0.39625337324105203
+  saturation: 0.4783073093276471
+  rhythmicContrast: 0.8941069757565856
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: immutable symbols
